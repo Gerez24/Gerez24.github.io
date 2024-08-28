@@ -1,0 +1,25 @@
+#  menu items
+[[main]]
+  name = "ダウンロード"
+  weight = 1
+  url = "jp/downloads/"
+
+[[main]]
+  name = "ドックス"
+  weight = 2
+  url = "jp/docs/ドキュメンテーション"
+
+[[main]]
+  name = "私たちについて"
+  weight = 3
+  url = "jp/about"
+
+[[main]]
+  name = "🇺🇸"
+  weight = 4
+  url = "en/"
+
+# [[main]]
+#   name = "Blog"
+#   weight = 4
+#   url = "blog/"

@@ -1,0 +1,20 @@
+[docs_menu]
+  other = "ドックスメニュー"
+[no_matches]
+  other = "一致する項目はありません"
+[quick_links]
+  other = "クイックリンク"
+[search_field_placeholder]
+  other = "検索 {{ .section }}" 
+[search_results_label]
+  other = "Search Results"
+[short_search_query]
+  other = "Query is too short"
+[site]
+  other = "site"
+[site_menu]
+  other = "Site Menu"
+[to_top]
+  other = "Back to top"
+[type_to_search]
+  other = "検索するタイプ"

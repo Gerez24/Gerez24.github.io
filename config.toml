@@ -1,0 +1,20 @@
+baseURL = "https://example.com/"
+copyright = 'AnimeEffectsDevs'
+defaultContentLanguage = 'en'
+enableRobotsTXT = true
+# this example loads the theme as hugo module
+# comment out line below, and uncomment the line after it if you prefer to load the theme normally
+#theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
+theme = ["github.com/onweru/compose"]
+enableGitInfo = true
+hasCJKLanguage = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[languages]
+  [languages.en]
+    title = "AnimeEffects"
+  [languages.jp]
+    title= "アニメエフェクツ"
+
+[outputs]
+  home = ["HTML", "RSS","JSON"]

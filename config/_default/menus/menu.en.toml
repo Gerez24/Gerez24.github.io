@@ -1,0 +1,26 @@
+#  menu items
+[[main]]
+  name = "Downloads"
+  weight = 1
+  url = "downloads/"
+
+[[main]]
+  name = "Docs"
+  weight = 2
+  url = "docs/documentation"
+
+[[main]]
+  name = "About us"
+  weight = 3
+  url = "about/"
+
+[[main]]
+  name = "🇯🇵"
+  weight = 4
+  url = "jp/"
+  
+
+# [[main]]
+#   name = "Blog"
+#   weight = 4
+#   url = "blog/"
